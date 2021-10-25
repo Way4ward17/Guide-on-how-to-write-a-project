@@ -63,8 +63,8 @@ This is a guide on how to write a computer science final year project. I develop
 <li><strong>DEFINATION OF TERM</strong></li>
 </ul>
 <p><strong>SOMETHING YOU CAN HAVE A SECTION CALLED</strong></p>
-<p><strong>1.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROPOSED MODEL</strong></p>
-<p><strong>1.9.1&nbsp;&nbsp;&nbsp; CONCEPTUAL MODEL</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROPOSED MODEL</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; CONCEPTUAL MODEL</strong></p>
 <p>This is similar to methodology. It&rsquo;s a diagrammatical expression of your whole work. Sometimes you might be so lucky to see what you need exactly on Google else you draw off-hand.</p>
-<p><strong>1.9.2&nbsp;&nbsp;&nbsp; MATHEMATICAL MODEL</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; MATHEMATICAL MODEL</strong></p>
 <p>This is mostly useful in Machine Learning topics. So here you would write the mathematical expression of the algorithm you want to use. Just search on Google. You would see something useful.</p>
